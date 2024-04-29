@@ -28,4 +28,8 @@ int main(){
     cin >> nMat;
     cout << " Masukan nilai inggri";
     cin >> nInggris;
-    rerata = (nfisika + nMat) / 2;
+    rerata = (nInggris + nMat) / 2;
+
+    if (rerata >= 75) {
+        status = "Lulus jalur rerata";
+
