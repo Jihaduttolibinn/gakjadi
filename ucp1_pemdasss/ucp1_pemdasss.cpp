@@ -22,4 +22,5 @@
 #include <iostream>
 using namespace std;
 int main(){
-    float nMat, nInggris, 
+    float nMat, nInggris, rerata;
+   
