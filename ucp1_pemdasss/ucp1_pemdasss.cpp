@@ -30,6 +30,13 @@ int main(){
     cin >> nInggris;
     rerata = (nInggris + nMat) / 2;
 
-    if (rerata >= 75) {
-        status = "Lulus jalur rerata";
-
+    if (rerata >= 70) {
+        status = "Lulus jalur inggris";
+    }
+    else if (nMat >= 70) {
+        status = " lulus jalur matematika";
+    }
+    else
+    {
+        status = "tidak lulus";
+    }
