@@ -40,3 +40,6 @@ int main(){
     {
         status = "tidak lulus";
     }
+
+cout << "Statusnya adalah " << status << endl;
+};
