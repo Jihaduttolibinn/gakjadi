@@ -23,4 +23,4 @@
 using namespace std;
 int main(){
     float nMat, nInggris, rerata;
-   
+    string status;
