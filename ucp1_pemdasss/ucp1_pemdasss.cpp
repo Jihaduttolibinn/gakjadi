@@ -28,3 +28,4 @@ int main(){
     cin >> nMat;
     cout << " Masukan nilai inggri";
     cin >> nInggris;
+    rerata = (nfisika + nMat) / 2;
