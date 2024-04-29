@@ -26,3 +26,5 @@ int main(){
     string status;
     cout << " Masukan nilai matematika ";
     cin >> nMat;
+    cout << " Masukan nilai inggri";
+    cin >> nInggris;
